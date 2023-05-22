@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahul Kumar Yadav</h1>
+<h1 align="center">Hi! I'm Rahul Kumar Yadav</h1>
 <h3 align="center">A Developer and a Computer Science Graduate from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-26&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-26" /> </p>
