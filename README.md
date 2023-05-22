@@ -1,15 +1,24 @@
 <h1 align="center">Hi! I'm Rahul Kumar Yadav</h1>
 <h3 align="center">A Developer and a Computer Science Graduate from India.</h3>
 
+<p align="center">Computer Science Graduate | Full Stack Developer | Java | HTML | CSS | JavaScript | Node.js | MongoDB | Android Studio</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul-26&label=Profile%20views&color=0e75b6&style=flat" alt="rahul-26" /> </p>
 
-- 🌱 I’m currently working on **Web Dev Projects**
 
-- 👨‍💻 Visit my Portfolio at [https://rahul-26.github.io/](https://rahul-26.github.io/)
+- 🎓 Computer Science graduate passionate about software development and problem-solving. 
+- 👨‍💻 Experienced in Java, HTML, CSS, and JavaScript, with a strong foundation in data structures and algorithms.
+- 🌐 Skilled in building web applications using Node.js and MongoDB, creating responsive and user-friendly interfaces with modern web technologies.
+- 📱 Proficient in Android Studio, developing native mobile applications for Android devices.
+- 🔧 Familiar with operating systems and database management systems.
 
+- 💼 Seeking challenging opportunities to contribute to innovative projects and collaborate with talented teams.
+- 🌟 Open to new technologies and always eager to learn and grow as a developer.
+- 📚 Love sharing knowledge and actively participate in the tech community.
 - 💬 Ask me about **Java, Web Dev, Android Dev**
-
-- 📫 How to reach me **rahullilua2126.2@gmail.com**
+- 🌱 I’m currently working on **Web Dev Projects**
+- 🌐 Check out my portfolio: [My Portfolio](https://rahul-26.github.io/)
+- ✉️ Feel free to contact me: **rahullilua2126.2@gmail.com**
 
 <p align="left">
 </p>
