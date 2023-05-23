@@ -17,7 +17,7 @@
 - 📚 Love sharing knowledge and actively participate in the tech community.
 - 💬 Ask me about **Java, Web Dev, Android Dev**
 - 🌱 I’m currently working on **Web Dev Projects**
-- 🌐 Check out my portfolio: [My Portfolio](https://rahul-26.github.io/)
+- 🌐 Check out my portfolio: [My Portfolio](https://rahul-26.github.io/Portfolio/)
 - ✉️ Feel free to contact me: **rahullilua2126.2@gmail.com**
 
 <p align="left">
